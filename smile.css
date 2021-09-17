@@ -1,0 +1,80 @@
+{
+	border-color: rgb(60 55 72);
+	
+	font-family: verdana, Geneva, tatoma,sars_serif;
+padding: 7px;
+align-items: left;
+
+
+
+}
+nav{
+	font-family: times new roman;
+	text-align: center;
+	background-image: url("https://www.bing.com/th?id=OIP.tTwacPBrm1AU4W5swOc7DQHaEK&w=202&h=110&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2");
+	opacity:100%;
+	
+}
+input[type="submit"]
+{
+	background-color:darkblue;
+	color: white;
+	padding: 12px 20px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	width: 80%;
+
+
+}
+input[type="submit"]{
+	margin-left: 70px;
+	text-align:center;
+	float: center;
+	justify-content: center;
+}
+fieldset{
+	border-color:white;
+}
+input[type="name"],
+input[type="radio"],
+input[type="number"],
+select,option,
+input[type="date"]{
+	
+	padding: 2px;
+
+}
+
+h1{
+	color: purple;
+	=
+}
+fieldset:hover{
+	background-color: #fffc;
+	border:1px solid #ccc;
+		background-image: linear-gradient(30deg,#04F5,#588);
+}
+a,h1{
+	text-decoration: none;
+	color: blue;
+
+
+}
+fieldset{
+	background-image: url("https://www.bing.com/images/search?view=detailV2&ccid=GLfU6tGg&id=369C28FDF4F6F1176BC6D03EA9A28FE0A159B5BD&thid=OIP.GLfU6tGgbDoy4tiVfsOY5gHaBB&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR18b7d4ead1a06c3a32e2d8957ec398e6%3frik%3dvbVZoeCPoqk%252b0A%26riu%3dhttp%253a%252f%252fmrpowerclean.com%252fwp-content%252fthemes%252fStellar_Responsive%252fimages%252fCredit-Card-Logo.png%26ehk%3dC60J0DBL%252fZHLdhG8W09VcOe3Bd2hgI8m8Isq9sgk4p4%253d%26risl%3d%26pid%3dImgRaw&exph=1190&expw=8552&q=visa+rupa+imaes+for+web+development&simid=608036754972226093&ck=52E3A25569631F629D98704D6C5C489D&selectedIndex=5&FORM=IRPRST");
+}
+.circular{
+	
+			clip-path: circle(50% at 50% 50%);
+}
+.card_details:hover{
+
+}
+@media(min-width:414px){
+	*{
+		margin: 20px;
+	}
+}
+
+
